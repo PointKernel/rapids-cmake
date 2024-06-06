@@ -36,7 +36,7 @@
       "version": "0.0.1",
       "git_shallow": false,
       "git_url": "https://github.com/NVIDIA/cuCollections.git",
-      "git_tag": "2101cb31d0210b609cd02c88f9b538e10881d91d"
+      "git_tag": "a41c046987fb13d7ed3667fae6769c6a71479d83"
     },
     "fmt": {
       "version": "10.1.1",
