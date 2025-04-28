@@ -16,7 +16,7 @@
       "version": "2.7.0",
       "git_shallow": false,
       "git_url": "https://github.com/NVIDIA/cccl.git",
-      "git_tag": "b5fe509fd11a925f90d6495176707cc1184eed9d",
+      "git_tag": "28460ace124dcc6c8571ee2bf45fe83703d4c84f",
       "patches": [
         {
           "file": "cccl/backport-suppress-execution-checks.patch",
