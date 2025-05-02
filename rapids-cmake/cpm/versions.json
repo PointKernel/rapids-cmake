@@ -22,8 +22,8 @@
       "version": "0.0.1",
       "git_shallow": false,
       "always_download": true,
-      "git_url": "https://github.com/NVIDIA/cuCollections.git",
-      "git_tag": "2303a7a2a03e38385dbe1bbc91c55007a94a9192"
+      "git_url": "https://github.com/sleeepyjack/cuCollections.git",
+      "git_tag": "fix-murmur"
     },
     "rapids_logger": {
       "version": "0.1.0",
