@@ -64,9 +64,10 @@
       "source_subdir": "c"
     },
     "rmm": {
-      "version": "${rapids-cmake-version}",
-      "git_url": "https://github.com/rapidsai/rmm.git",
-      "git_tag": "${rapids-cmake-checkout-tag}",
+      "version": "26.04",
+      "git_shallow": false,
+      "git_url": "https://github.com/PointKernel/rmm.git",
+      "git_tag": "fix-bool-conversion",
       "source_subdir": "cpp"
     }
   }
